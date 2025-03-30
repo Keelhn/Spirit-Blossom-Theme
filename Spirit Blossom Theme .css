@@ -7,10 +7,10 @@
 }
 
 :root {
-    --version: "1"; /* 0-00 */
-    --currentVersion: "Spirit Blossom v" var(--version);
+    --version: "1-49"; /* 0-00 */
+    --currentVersion: "WizardUI v" var(--version);
     /* MAIN VARIABLES */
-    --Watermark: "- Spirit Blossom v" var(--version);
+    --Watermark: "- WizardUI v" var(--version);
     --font: 'Inter', 'emoji', sans-serif;
     --Text: rgb(255, 255, 255);
     --logo: url(https://github.com/Keelhn/Spirit-Blossom-Theme/blob/main/Spirit%20Blossom%20logo.png?raw=true);
