@@ -1727,7 +1727,7 @@ div[class^=folderIconWrapper][style="background-color: rgba(88, 101, 242, 0.4);"
 
 .info__2debe>span:nth-child(1):after {
     display: block;
-    content: "Customized by Keelhn";
+    content: "Customized by NEBULYS";
     font-size: 12px;
     font-weight: bold;
     text-transform: none;
@@ -3507,41 +3507,6 @@ a {
 .gridContainer__623de {
     position: relative;
     max-width: fit-content !important;
-}
-
-.embedProvider__623de {
-    text-align: center;
-    position: relative;
-    z-index: 0;
-}
-
-.embedProvider__623de>a:before,
-.embedProvider__623de>span:before {
-    content: "";
-    z-index: -1;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border-radius: 5px;
-    background: var(--Primary);
-    color: var(--Text);
-}
-
-.embedProvider__623de>a[href="https://www.youtube.com"]:before {
-    background: #FF0000;
-}
-
-.embedTitle__623de,
-.embedAuthor__623de {
-    display: flex;
-    justify-content: center;
-    overflow: hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-    max-height: 1.5rem;
-    max-width: 100%;
 }
 
 .keyboardShortcutList_f061f6 .keybindGroup_f061f6 {
