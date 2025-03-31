@@ -25,10 +25,10 @@
     --Hover: rgba(18, 19, 31, 0.50);
     /* STATUS VARIABLES */
     --Online: rgb(33, 138, 13);
-    --Idle: rgb(184, 189, 119);
-    --Unavailable: rgb(163, 36, 76);
+    --Idle: rgb(218, 227, 98);
+    --Unavailable: rgb(242, 34, 100);
     --Offline: rgb(90, 95, 100);
-    --Streaming: rgb(39, 132, 140);
+    --Streaming: rgb(40, 170, 181);
     /* BACKGROUNDS */
     --background: url(https://github.com/Keelhn/Spirit-Blossom-Theme/blob/main/Spirit%20Blossom%20Background.png?raw=true);
     --bg-titlebar: rgba(0, 0, 0, 0.65);
@@ -54,7 +54,7 @@
     --ServerPills: var(--Primary);
     --ServerFoldersColor: var(--Primary);
     /* ROUNDING */
-    --Rounding: 15px;
+    --Rounding: 5px;
     --AvatarRounding: var(--Rounding);
     /* RGB ADDON */
     --ColorTime: 2s;
